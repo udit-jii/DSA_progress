@@ -4,7 +4,7 @@ Tracking dsa
 
 My Leetcode ID = "https://leetcode.com/u/Viperior/"
 
-During my first half I watched 25 lectures of CodeHelp- by babbar, solved various problems he used to do during vid lectures on vs code.
+In this dsa course I watched videos of CodeHelp- by babbar, solved various problems he used to do during vid lectures on vs code.
 
 Then to practice more i exercise on leetcode
 
